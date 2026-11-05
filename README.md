@@ -15,17 +15,3 @@ Un Proof of Concept (PoC) completo sviluppato per esplorare tutte le funzionalit
 * Vue Router 4
 * Tailwind CSS
 * Vite
-
-## 🚀 Come Eseguire il Progetto
-
-Clona il repository e installa le dipendenze:
-\`\`\`bash
-git clone https://github.com/tuo-username/vue-router-poc.git
-cd vue-router-poc
-npm install
-\`\`\`
-
-Avvia il server di sviluppo:
-\`\`\`bash
-npm run dev
-\`\`\`
